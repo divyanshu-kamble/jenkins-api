@@ -10,5 +10,5 @@ df['temperature'] = df['temperature'].apply(lambda x: x*10)
 
 print(df.head(10))
 
-df.to_csv("/Users/dkamble.intern/Documents/jenkins-data/final_csv/transformed.csv", index=False)
+df.to_csv("/Users/dkamble.intern/Documents/jenkins-data/final_csv/transform1.csv", index=False)
 
