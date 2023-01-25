@@ -3,7 +3,6 @@ import requests
 
 # Base_url = "http://api.openweathermap.org/data/3.0/onecall/timemachine?"
 #
-# api_key = "92b449f83945fac80fd888d9c1d90aef"
 #
 #
 # lat="39.099724"
